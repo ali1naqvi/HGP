@@ -4,7 +4,9 @@ Hierarchical Graph Pooling with Structure Learning (paper available at [arXiv](h
 This is a PyTorch reimplementation of the HGP-SL model mentioned above. 
 
 The required libraries can be installed via pip using the command: <br>
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
+CUDA version 12.1 was used **
+
 
 To Run: <br>
 Press "run all" in the jupyter notebook (main_jup.ipynb). <br>
