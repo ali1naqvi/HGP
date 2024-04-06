@@ -3,7 +3,7 @@ Hierarchical Graph Pooling with Structure Learning (paper available at [arXiv](h
 
 This is a PyTorch reimplementation of the HGP-SL model mentioned above. 
 
-The required libraries can be installed via pip using the command:
+The required libraries can be installed via pip using the command: <br>
 pip install -r requirements.txt
 
 To Run: 
